@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Parameter-Efficient Fine-Tuning of Compact Transformer Language Models under Edge Constraints: A Controlled Empirical Study of Accuracy, Energy, and Carbon Trade-Offs"
+message: "If you use this code or data, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: Itanyi
+    given-names: Mamudu Francis
+    affiliation: "Department of Computer Science, Federal University of Education, Pankshin, Nigeria"
+    orcid: "https://orcid.org/0009-0009-3380-4471"
+  - family-names: Oladipo
+    given-names: Francisca N.
+    affiliation: "Department of Mathematical and Computing Sciences, Thomas Adewumi University, Oko, Nigeria"
+  - family-names: Oluwagbenga
+    given-names: Taiwo Timothy
+    affiliation: "Department of Mathematical and Computing Sciences, Thomas Adewumi University, Oko, Nigeria"
+url: "https://github.com/mamudufrancis2020-a11y/peft-compact-edge"
+repository-code: "https://github.com/mamudufrancis2020-a11y/peft-compact-edge"
+keywords:
+  - parameter-efficient fine-tuning
+  - LoRA
+  - compact language models
+  - edge AI
+  - green NLP
+  - energy efficiency
+  - carbon emissions
+license: MIT
+date-released: "2026-10-22"
